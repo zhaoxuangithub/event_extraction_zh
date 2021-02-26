@@ -1,0 +1,11 @@
+{"event_type": "综合", "role_list": [{"role": "时间"}, {"role": "主体"}, {"role": "客体"}], "id": "88e7de9fe51dafa4c34996adf25f0373", "class": "综合"}
+{"event_type": "会议活动", "role_list": [{"role": "时间"}, {"role": "会议活动主体"}, {"role": "会议活动客体"}], "id": "ef7f6019b16f7f16570b4628e1f15a57", "class": "会议活动"}
+{"event_type": "公开声明", "role_list": [{"role": "时间"}, {"role": "声明主体"}, {"role": "声明客体"}], "id": "e7db08b6986674f73d90c78b42734fbb", "class": "公开声明"}
+{"event_type": "关系建立", "role_list": [{"role": "时间"}, {"role": "关系主体"}, {"role": "关系客体"}], "id": "3ef1fba24ab72d1d046be11050df1db2", "class": "关系建立"}
+{"event_type": "投票表决", "role_list": [{"role": "时间"}, {"role": "投票主体"}, {"role": "投票客体"}], "id": "d93e3b76c7eb9a6bf74ba7c4d6a8b56b", "class": "投票表决"}
+{"event_type": "立法行为", "role_list": [{"role": "时间"}, {"role": "立法主体"}, {"role": "立法客体"}], "id": "4857f69aa5e81faf55b4bfe0c562283c", "class": "立法行为"}
+{"event_type": "组织机构变更", "role_list": [{"role": "时间"}, {"role": "变更主体"}, {"role": "变更客体"}], "id": "8487572a3a61d6552b37ac47e6bf3900", "class": "组织机构变更"}
+{"event_type": "经济运行", "role_list": [{"role": "时间"}, {"role": "经济主体"}, {"role": "经济客体"}], "id": "70b4b512f9470cc854d8460f873b8de3", "class": "经济运行"}
+{"event_type": "职位变更", "role_list": [{"role": "时间"}, {"role": "职位主体"}, {"role": "职位客体"}], "id": "b32e32924afb5d1ac7ffcec55d0f1cd8", "class": "职位变更"}
+{"event_type": "关系降级", "role_list": [{"role": "时间"}, {"role": "关系主体"}, {"role": "关系客体"}], "id": "1a2a677526618e38523a5df3fae43c76", "class": "关系降级"}
+{"event_type": "涉法律行为", "role_list": [{"role": "时间"}, {"role": "法律主体"}, {"role": "法律客体"}], "id": "3567d158c3ec5ec36d1883fc863f37b1", "class": "涉法律行为"}

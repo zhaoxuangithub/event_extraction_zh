@@ -1,0 +1,6 @@
+{"event_type": "公开声明-声明", "role_list": [{"role": "时间"}, {"role": "声明主体"}, {"role": "声明客体"}], "id": "d4f8b0a5422588d57b200558d0039729", "class": "公开声明"}
+{"event_type": "会议活动-会议/活动", "role_list": [{"role": "时间"}, {"role": "会议活动主体"}, {"role": "会议活动客体"}], "id": "738611b81981d071843d203c6a682ed0", "class": "会议活动"}
+{"event_type": "组织机构变更-变更", "role_list": [{"role": "时间"}, {"role": "变更主体"}, {"role": "变更客体"}], "id": "49437439314b6c453e4dae69152e4f2a", "class": "组织机构变更"}
+{"event_type": "职位变更-职位", "role_list": [{"role": "时间"}, {"role": "职位主体"}, {"role": "职位客体"}], "id": "2e4466a66f674dea0e3d7b5121699ff0", "class": "职位变更"}
+{"event_type": "投票表决-投票", "role_list": [{"role": "时间"}, {"role": "投票主体"}, {"role": "投票客体"}], "id": "0cbd360b0aa2b968655cb2ee5d7e26de", "class": "投票表决"}
+{"event_type": "经济运行-经济", "role_list": [{"role": "时间"}, {"role": "经济主体"}, {"role": "经济客体"}], "id": "7e40fa0fce93aeae2362fde49cf8c36b", "class": "经济运行"}
